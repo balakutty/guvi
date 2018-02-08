@@ -13,3 +13,4 @@ void main()
     }
     printf("Number of digits %d",b);
     getch();
+}
